@@ -1,0 +1,3 @@
+class SimpleGithubSchoolProject {
+    // Class implementation goes here...
+}
